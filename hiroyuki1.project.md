@@ -1,8 +1,8 @@
 ### テストプロジェクト名
-test-project
+hiroyuki1
 
 ### テストプロジェクト説明
-test-projectの説明になります
+hiroyuki1の説明
 
 ### プラットフォーム
 - Google Chrome
