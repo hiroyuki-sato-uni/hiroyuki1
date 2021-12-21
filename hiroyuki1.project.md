@@ -1,10 +1,10 @@
-### テストプロジェクト名
+### Test Project Name
 hiroyuki1
 
-### テストプロジェクト説明
+### Test Project Description
 hiroyuki1の説明
 
-### プラットフォーム
+### Platform
 - Google Chrome
   - 説明、特になし
 - Microsoft Edge
