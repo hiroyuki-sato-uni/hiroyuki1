@@ -1,13 +1,13 @@
-### テストケース名
-testcase1
+### Test Case Name
+test-case
 
-### 要約
+### Summary
 説明
 
-### 前提条件
+### Precondition
 説明
 
-### テストケース手順
+### Step
 | アクション | 期待結果 | 実行方法 |
 |---|---|---|
 | Sample1 Action | Sample1 expected_result | 手動 |
