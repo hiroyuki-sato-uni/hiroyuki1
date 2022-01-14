@@ -2,7 +2,7 @@
 hiroyuki1
 
 ### Test Project Description
-test
+説明
 
 ### Platform
 - Google Chrome
